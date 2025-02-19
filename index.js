@@ -1,2 +1,2 @@
-import './db/index.js';
+import './db/connection.js';
 import './app.js';
