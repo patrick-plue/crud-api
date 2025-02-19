@@ -9,3 +9,5 @@ try {
 } catch (error) {
     console.error('Unable to connect to the database', error);
 }
+
+export default sequelize;
